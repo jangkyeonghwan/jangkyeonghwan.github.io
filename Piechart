@@ -1,0 +1,768 @@
+Enter file contents here
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>PieChartIDf907d6a31fc</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<style type="text/css">
+body {
+  color: #444444;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 75%;
+  }
+  a {
+  color: #4D87C7;
+  text-decoration: none;
+}
+</style>
+</head>
+<body>
+ <!-- PieChart generated in R 3.3.0 by googleVis 0.5.10 package -->
+<!-- Tue May 31 00:28:13 2016 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataPieChartIDf907d6a31fc () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "South Asia",
+637.0379443 
+],
+[
+ "Sub-Saharan Africa",
+3675.787412 
+],
+[
+ "Europe & Central Asia",
+3738.689799 
+],
+[
+ "Middle East & North Africa",
+32507.0721 
+],
+[
+ "Latin America & Caribbean",
+12463.29847 
+],
+[
+ "Europe & Central Asia",
+3380.962145 
+],
+[
+ "East Asia & Pacific",
+52290.2299 
+],
+[
+ "Europe & Central Asia",
+41636.12156 
+],
+[
+ "Europe & Central Asia",
+5122.941115 
+],
+[
+ "Sub-Saharan Africa",
+180.7111281 
+],
+[
+ "Europe & Central Asia",
+38097.94414 
+],
+[
+ "Sub-Saharan Africa",
+814.4532375 
+],
+[
+ "Sub-Saharan Africa",
+564.4740006 
+],
+[
+ "South Asia",
+920.607277 
+],
+[
+ "Europe & Central Asia",
+6308.808871 
+],
+[
+ "Middle East & North Africa",
+14361.67331 
+],
+[
+ "Latin America & Caribbean",
+19904.92276 
+],
+[
+ "Europe & Central Asia",
+6487.019834 
+],
+[
+ "Latin America & Caribbean",
+3408.7368 
+],
+[
+ "Latin America & Caribbean",
+2143.729674 
+],
+[
+ "Latin America & Caribbean",
+9812.705341 
+],
+[
+ "South Asia",
+1807.021978 
+],
+[
+ "Sub-Saharan Africa",
+5168.599723 
+],
+[
+ "Sub-Saharan Africa",
+306.2611547 
+],
+[
+ "North America",
+41427.19523 
+],
+[
+ "Europe & Central Asia",
+68574.83535 
+],
+[
+ "Latin America & Caribbean",
+11932.87163 
+],
+[
+ "East Asia & Pacific",
+5814.665728 
+],
+[
+ "Sub-Saharan Africa",
+1292.004357 
+],
+[
+ "Sub-Saharan Africa",
+1121.76996 
+],
+[
+ "Sub-Saharan Africa",
+598.5535417 
+],
+[
+ "Latin America & Caribbean",
+6192.73744 
+],
+[
+ "Sub-Saharan Africa",
+670.3638656 
+],
+[
+ "Sub-Saharan Africa",
+2755.465366 
+],
+[
+ "Latin America & Caribbean",
+9479.388378 
+],
+[
+ "Europe & Central Asia",
+17614.87774 
+],
+[
+ "Europe & Central Asia",
+14186.79557 
+],
+[
+ "Europe & Central Asia",
+38395.08634 
+],
+[
+ "Europe & Central Asia",
+50396.84353 
+],
+[
+ "Latin America & Caribbean",
+5328.892788 
+],
+[
+ "Middle East & North Africa",
+4077.595482 
+],
+[
+ "Latin America & Caribbean",
+4705.280279 
+],
+[
+ "Middle East & North Africa",
+2735.38661 
+],
+[
+ "Europe & Central Asia",
+24002.63333 
+],
+[
+ "Europe & Central Asia",
+15686.66703 
+],
+[
+ "Sub-Saharan Africa",
+410.799653 
+],
+[
+ "Europe & Central Asia",
+40035.64105 
+],
+[
+ "East Asia & Pacific",
+4165.118216 
+],
+[
+ "Europe & Central Asia",
+35594.09691 
+],
+[
+ "Sub-Saharan Africa",
+4786.782601 
+],
+[
+ "Europe & Central Asia",
+35909.47843 
+],
+[
+ "Europe & Central Asia",
+3710.013646 
+],
+[
+ "Sub-Saharan Africa",
+1428.941802 
+],
+[
+ "Sub-Saharan Africa",
+335.294167 
+],
+[
+ "Sub-Saharan Africa",
+371.6516172 
+],
+[
+ "Sub-Saharan Africa",
+417.9937601 
+],
+[
+ "Sub-Saharan Africa",
+1471.435965 
+],
+[
+ "Europe & Central Asia",
+17892.50668 
+],
+[
+ "Latin America & Caribbean",
+3009.266574 
+],
+[
+ "Latin America & Caribbean",
+3365.91004 
+],
+[
+ "Latin America & Caribbean",
+1988.30998 
+],
+[
+ "Europe & Central Asia",
+10785.40124 
+],
+[
+ "Latin America & Caribbean",
+766.2702206 
+],
+[
+ "Europe & Central Asia",
+10726.86984 
+],
+[
+ "East Asia & Pacific",
+3206.371891 
+],
+[
+ "South Asia",
+1246.321769 
+],
+[
+ "Europe & Central Asia",
+35997.53205 
+],
+[
+ "Middle East & North Africa",
+5135.440694 
+],
+[
+ "Middle East & North Africa",
+4776.131669 
+],
+[
+ "Europe & Central Asia",
+38683.42455 
+],
+[
+ "Middle East & North Africa",
+30710.30965 
+],
+[
+ "Europe & Central Asia",
+28745.99319 
+],
+[
+ "Latin America & Caribbean",
+4643.016352 
+],
+[
+ "Middle East & North Africa",
+4673.286498 
+],
+[
+ "East Asia & Pacific",
+31850.81031 
+],
+[
+ "Europe & Central Asia",
+8583.944275 
+],
+[
+ "Sub-Saharan Africa",
+1135.204183 
+],
+[
+ "Europe & Central Asia",
+964.2184892 
+],
+[
+ "East Asia & Pacific",
+844.277706 
+],
+[
+ "East Asia & Pacific",
+2426.887248 
+],
+[
+ "East Asia & Pacific",
+21104.45313 
+],
+[
+ "Middle East & North Africa",
+36857.88787 
+],
+[
+ "East Asia & Pacific",
+1255.02335 
+],
+[
+ "Middle East & North Africa",
+8488.605602 
+],
+[
+ "Sub-Saharan Africa",
+252.4575365 
+],
+[
+ "Middle East & North Africa",
+7139.34219 
+],
+[
+ "Latin America & Caribbean",
+6742.883014 
+],
+[
+ "South Asia",
+2957.717406 
+],
+[
+ "Sub-Saharan Africa",
+1254.396262 
+],
+[
+ "Europe & Central Asia",
+13041.84505 
+],
+[
+ "Europe & Central Asia",
+59782.27801 
+],
+[
+ "Europe & Central Asia",
+11251.62999 
+],
+[
+ "Middle East & North Africa",
+2678.448568 
+],
+[
+ "Europe & Central Asia",
+2273.155287 
+],
+[
+ "Sub-Saharan Africa",
+395.4805691 
+],
+[
+ "South Asia",
+5484.839907 
+],
+[
+ "Latin America & Caribbean",
+8055.955547 
+],
+[
+ "Europe & Central Asia",
+4140.174374 
+],
+[
+ "Sub-Saharan Africa",
+505.0412361 
+],
+[
+ "East Asia & Pacific",
+1010.207956 
+],
+[
+ "East Asia & Pacific",
+3386.731677 
+],
+[
+ "Sub-Saharan Africa",
+527.4742974 
+],
+[
+ "Sub-Saharan Africa",
+740.4789504 
+],
+[
+ "Sub-Saharan Africa",
+8616.919271 
+],
+[
+ "Sub-Saharan Africa",
+185.5759589 
+],
+[
+ "East Asia & Pacific",
+8029.50855 
+],
+[
+ "Sub-Saharan Africa",
+4835.403244 
+],
+[
+ "Sub-Saharan Africa",
+334.425693 
+],
+[
+ "Sub-Saharan Africa",
+2482.486952 
+],
+[
+ "Latin America & Caribbean",
+1591.644024 
+],
+[
+ "Europe & Central Asia",
+43403.63118 
+],
+[
+ "Europe & Central Asia",
+78927.15737 
+],
+[
+ "South Asia",
+630.957418 
+],
+[
+ "East Asia & Pacific",
+34311.10656 
+],
+[
+ "Middle East & North Africa",
+8749.266685 
+],
+[
+ "South Asia",
+1229.357321 
+],
+[
+ "Latin America & Caribbean",
+10572.20972 
+],
+[
+ "Latin America & Caribbean",
+5446.276291 
+],
+[
+ "East Asia & Pacific",
+3034.981641 
+],
+[
+ "East Asia & Pacific",
+1490.928057 
+],
+[
+ "Europe & Central Asia",
+11677.08954 
+],
+[
+ "Europe & Central Asia",
+17515.63325 
+],
+[
+ "Latin America & Caribbean",
+3750.877257 
+],
+[
+ "Middle East & North Africa",
+58226.81436 
+],
+[
+ "Europe & Central Asia",
+9053.077503 
+],
+[
+ "Europe & Central Asia",
+11721.76263 
+],
+[
+ "Sub-Saharan Africa",
+572.5330043 
+],
+[
+ "Middle East & North Africa",
+17586.77085 
+],
+[
+ "Sub-Saharan Africa",
+1548.658806 
+],
+[
+ "Sub-Saharan Africa",
+904.7516051 
+],
+[
+ "East Asia & Pacific",
+46953.54404 
+],
+[
+ "East Asia & Pacific",
+1154.164203 
+],
+[
+ "Sub-Saharan Africa",
+621.3100235 
+],
+[
+ "Latin America & Caribbean",
+3425.320735 
+],
+[
+ "Sub-Saharan Africa",
+1487.250165 
+],
+[
+ "Latin America & Caribbean",
+6888.250475 
+],
+[
+ "Europe & Central Asia",
+13966.27152 
+],
+[
+ "Europe & Central Asia",
+18050.5895 
+],
+[
+ "Europe & Central Asia",
+51843.5856 
+],
+[
+ "Sub-Saharan Africa",
+2819.873955 
+],
+[
+ "Sub-Saharan Africa",
+13017.78092 
+],
+[
+ "Sub-Saharan Africa",
+741.31644 
+],
+[
+ "Sub-Saharan Africa",
+452.3762 
+],
+[
+ "East Asia & Pacific",
+4659.825022 
+],
+[
+ "Europe & Central Asia",
+981.8828026 
+],
+[
+ "East Asia & Pacific",
+3861.051899 
+],
+[
+ "Latin America & Caribbean",
+11360.43589 
+],
+[
+ "Middle East & North Africa",
+3232.116994 
+],
+[
+ "Europe & Central Asia",
+10180.98553 
+],
+[
+ "Sub-Saharan Africa",
+793.3476746 
+],
+[
+ "Sub-Saharan Africa",
+541.8736132 
+],
+[
+ "Europe & Central Asia",
+3233.993032 
+],
+[
+ "Latin America & Caribbean",
+14443.95715 
+],
+[
+ "North America",
+45170.80041 
+],
+[
+ "Europe & Central Asia",
+1632.509005 
+],
+[
+ "Latin America & Caribbean",
+6213.657851 
+],
+[
+ "East Asia & Pacific",
+1441.37789 
+],
+[
+ "East Asia & Pacific",
+2871.861419 
+],
+[
+ "East Asia & Pacific",
+3554.875122 
+],
+[
+ "Middle East & North Africa",
+1163.117328 
+],
+[
+ "Sub-Saharan Africa",
+5548.614553 
+],
+[
+ "Sub-Saharan Africa",
+227.9824164 
+],
+[
+ "Sub-Saharan Africa",
+1232.822284 
+],
+[
+ "Sub-Saharan Africa",
+799.5307291 
+] 
+];
+data.addColumn('string','a.Region');
+data.addColumn('number','a.Income');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartPieChartIDf907d6a31fc() {
+var data = gvisDataPieChartIDf907d6a31fc();
+var options = {};
+options["allowHtml"] = true;
+
+
+    var chart = new google.visualization.PieChart(
+    document.getElementById('PieChartIDf907d6a31fc')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartPieChartIDf907d6a31fc);
+})();
+function displayChartPieChartIDf907d6a31fc() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartPieChartIDf907d6a31fc"></script>
+ 
+<!-- divChart -->
+  
+<div id="PieChartIDf907d6a31fc" 
+  style="width: 500; height: automatic;">
+</div>
+ <div><span>Data: d.f &#8226; Chart ID: <a href="Chart_PieChartIDf907d6a31fc.html">PieChartIDf907d6a31fc</a> &#8226; <a href="https://github.com/mages/googleVis">googleVis-0.5.10</a></span><br /> 
+<!-- htmlFooter -->
+<span> 
+  R version 3.3.0 (2016-05-03) 
+  &#8226; <a href="https://developers.google.com/terms/">Google Terms of Use</a> &#8226; <a href="https://google-developers.appspot.com/chart/interactive/docs/gallery/piechart">Documentation and Data Policy</a>
+</span></div>
+</body>
+</html>
